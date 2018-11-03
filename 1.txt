@@ -1,11 +1,1 @@
-hhhgfn
-位置：
-开始实战（原文第二个视频处）后面的第2个然后的那句话，原文：
-“然后，我们就可以在dev分支上正常提交，比如对readme.txt做个修改，加上一行：”
-
-操作：
-通过notepad++进行修改。
-
-问题：notepad++怎么知道打开的readme.md是哪一个分支下 readme？
-
-结果：使用notepad++保存修改之后，dev目录和master目录下的readme.md文件就均完成了修改。而此时并没有merge，甚至连git add 和 git commit命令都没有键入，而键入之后更是发现
+fenggaoyao
